@@ -2,6 +2,7 @@
   "name": "fastgif",
   "version": "0.1.1",
   "description": "fastgif, fast Web Assembly GIF decoder based on Wuffs",
+  "main": "./fastgif.js",
   "module": "pwacompat.js",
   "jsnext:main": "pwacompat.js",
   "repository": {
